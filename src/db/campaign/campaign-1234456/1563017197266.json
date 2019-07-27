@@ -1,0 +1,31 @@
+{
+    "date": 1563017197266,
+    "products": [
+        {
+            "name": "grechka",
+            "id": 1,
+            "weight": 100,
+            "calloriesPerWeight": 1000
+        },
+        {
+            "name": "vine",
+            "id": 1,
+            "weight": 100,
+            "calloriesPerWeight": 1000
+        },
+        {
+            "name": "beer",
+            "id": 1,
+            "weight": 100,
+            "calloriesPerWeight": 800
+        },
+        {
+            "name": "drugs",
+            "id": 1,
+            "weight": 100,
+            "calloriesPerWeight": 100
+        }
+    ],
+    "campaignId": "campaign-1234456",
+    "userId": 1
+}
